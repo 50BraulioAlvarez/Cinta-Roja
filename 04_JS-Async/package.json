@@ -1,0 +1,25 @@
+{
+  "name": "04_js-async",
+  "version": "1.0.0",
+  "description": "Segunda descripción",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/50BraulioAlvarez/Cinta-Roja.git"
+  },
+  "keywords": [
+    "Prueba",
+    "de",
+    "Package.json"
+  ],
+  "author": "Braulio Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/50BraulioAlvarez/Cinta-Roja/issues"
+  },
+  "homepage": "https://github.com/50BraulioAlvarez/Cinta-Roja#readme"
+}

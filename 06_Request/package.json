@@ -1,0 +1,14 @@
+{
+  "name": "06_request",
+  "version": "1.0.0",
+  "description": "mi primer request",
+  "main": "Request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braulio",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
